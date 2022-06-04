@@ -67,8 +67,7 @@ const Login = () => {
                     minHeight: '100vh',
                     alignItems: 'center',
                     justifyContent: 'flex-start',
-                    background:
-                        'url(https://source.unsplash.com/random/1600x900)',
+                    backgroundImage: 'url(messi.webp)',
                     backgroundRepeat: 'no-repeat',
                     backgroundSize: 'cover',
                 }}
